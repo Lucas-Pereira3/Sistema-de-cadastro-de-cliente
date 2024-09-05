@@ -1,3 +1,5 @@
+![Tela 1](https://github.com/user-attachments/assets/a6c9a704-ebb6-4ff2-bea3-7f86d9a1f363)
+
 # Sistema de Cadastro de Cliente
 Um sistema simples para cadastrar e consultar informações de clientes desenvolvido em C. Utiliza bibliotecas específicas do Windows para manipulação de interface e entrada de dados.
 
