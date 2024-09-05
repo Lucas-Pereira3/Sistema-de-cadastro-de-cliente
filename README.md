@@ -4,7 +4,8 @@ Um sistema simples para cadastrar e consultar informações de clientes desenvol
 Funcionalidades
 Cadastro: Permite adicionar até 5 clientes, com validação para idade (≥18), salário (≥2000) e sexo ('M' ou 'F').
 Consulta: Exibe todos os clientes cadastrados com detalhes (idade, salário e sexo).
-Instruções de Uso
+
+# Instruções de Uso
 
 Compilação:
 
