@@ -5,12 +5,14 @@ Funcionalidades
 Cadastro: Permite adicionar até 5 clientes, com validação para idade (≥18), salário (≥2000) e sexo ('M' ou 'F').
 Consulta: Exibe todos os clientes cadastrados com detalhes (idade, salário e sexo).
 Instruções de Uso
+
 Compilação:
 
 Compile o código C com um compilador compatível com windows.h e conio.h.
 Execução:
 
 Execute o arquivo gerado no terminal para interagir com o sistema.
+
 Menu:
 
 1. Cadastrar: Adiciona novos clientes.
