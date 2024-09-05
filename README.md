@@ -16,6 +16,7 @@ Menu:
 1. Cadastrar: Adiciona novos clientes.
 2. Consultar: Mostra todos os clientes cadastrados.
 3. Sair: Encerra o programa.
-Observações
+   
+## Observações
 Exclusivo para ambientes Windows devido às bibliotecas utilizadas.
 Certifique-se de que o console tem tamanho adequado para exibição completa.
